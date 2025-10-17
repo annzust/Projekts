@@ -1,0 +1,23 @@
+# CV novērtējums
+
+**Atbilstība:** 45%
+
+**Kopsavilkums:** Mārtiņš Kalniņš demonstrē pamata saderību ar jaunākā datu analītiķa amatu, pateicoties viņa pieredzei ar SQL un Excel, kā arī aktīvajai interesei un pašmācībai Power BI jomā. Viņa IT atbalsta pieredze nodrošina tehnisko problēmu risināšanas prasmes un precizitāti. Tomēr viņam trūkst padziļinātu zināšanu Python (īpaši pandas un numpy), statistikas pamatu un tiešas pieredzes datu analīzes pienākumos, kas ir būtiskas šim amatam.
+
+## Stiprās puses:
+- Pieredze ar SQL vaicājumiem
+- Prasmes darbā ar Excel pārskatu veidošanai
+- Pamatzināšanas Python valodā
+- Precizitāte un atbildība
+- Tehnisko problēmu risināšanas prasmes
+- Interese par datu analīzi un Power BI apguve
+
+## Trūkstošās prasmes:
+- Labas zināšanas Python (pandas, numpy)
+- Spēcīgas analītiskās prasmes (ārpus tehniskās problēmu risināšanas)
+- Pamatzināšanas statistikā
+- Pieredze datu vākšanā, tīrīšanā un analīzē (specifiski datu analīzes kontekstā)
+- Pieredze ar datu vizualizācijas rīkiem (ārpus Excel, Power BI ir apguves stadijā)
+- Izpratne par mašīnmācīšanos vai mākslīgo intelektu
+
+**Verdikts:** **POSSIBLE MATCH**

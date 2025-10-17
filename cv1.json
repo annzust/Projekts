@@ -1,0 +1,17 @@
+{
+    "match_score": 98,
+    "summary": "Elīnas Ozolas CV ir izcili piemērots jaunākā datu analītiķa amatam. Viņas pieredze un prasmes precīzi atbilst visām galvenajām prasībām un pienākumiem, kas norādīti darba aprakstā, tostarp specifiskām tehnoloģijām un darba stilam.",
+    "strengths": [
+        "Tieša pieredze kā Jaunākais datu analītiķis, izmantojot Python (pandas, numpy) datu analīzei",
+        "Pieredze ar SQL vaicājumiem un darbu ar datubāzēm (PostgreSQL)",
+        "Prasmes veidot vizualizācijas un pārskatus ar Power BI un Tableau, kā arī Excel",
+        "Pamatzināšanas statistikā",
+        "Pieredze datu modelēšanā un automatizētu pārskatu veidošanā",
+        "Spēcīgas analītiskās prasmes, kas demonstrētas datu analīzes uzdevumos",
+        "Spēja strādāt komandā un labas komunikācijas prasmes",
+        "Interese par mašīnmācīšanos un datu prognozēšanu",
+        "Precizitāte un atbildība, kas atbilst spējai strādāt patstāvīgi"
+    ],
+    "missing_requirements": [],
+    "verdict": "strong match"
+}

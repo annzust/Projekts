@@ -1,0 +1,16 @@
+{
+    "match_score": 10,
+    "summary": "Kandidātes CV galvenokārt koncentrējas uz mārketinga un sociālo mediju vadības pieredzi. Lai gan ir redzama pamata analītiskā domāšana, analizējot sociālo mediju rādītājus, trūkst galveno tehnisko prasmju, kas nepieciešamas jaunākā datu analītiķa amatam, piemēram, Python, SQL un statistikas zināšanas.",
+    "strengths": [
+        "Analītiskā domāšana (demonstrēta caur sociālo mediju iesaistes rādītāju analīzi)",
+        "Komunikācijas prasmes"
+    ],
+    "missing_requirements": [
+        "Labas zināšanas Python (pandas, numpy)",
+        "Pieredze darbā ar SQL datubāzēm",
+        "Pamatzināšanas statistikā",
+        "Pieredze ar datu vizualizācijas rīkiem (Excel, Power BI, Tableau)",
+        "Pieredze datu vākšanā, tīrīšanā un modeļu veidošanā ar attiecīgajiem rīkiem"
+    ],
+    "verdict": "not a match"
+}
