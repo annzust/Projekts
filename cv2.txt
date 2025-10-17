@@ -1,0 +1,20 @@
+Vārds: Mārtiņš Kalniņš
+Amats: IT speciālists
+
+Pieredze:
+- IT atbalsta speciālists, “DataLink” (2022–2025)
+  - Pārvaldīju uzņēmuma iekšējos datu serverus
+  - Veicu datu dublējumus un sistēmu uzraudzību
+  - Rakstīju vienkāršus SQL vaicājumus un izmantoju Excel pārskatu veidošanai
+
+Izglītība:
+- Rīgas Tehniskā koledža — Datorzinātnes tehniķis (2021)
+
+Prasmes:
+- SQL, Excel, datu drošība
+- Pamatzināšanas Python valodā
+- Tehnisko problēmu risināšana
+- Atbildīgs un precīzs
+
+Papildus:
+- Interese par datu analīzi, pašlaik apgūstu Power BI tiešsaistes kursu

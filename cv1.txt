@@ -1,0 +1,22 @@
+Vārds: Elīna Ozola
+Amats: Datu analītiķe
+
+Pieredze:
+- Junior Data Analyst, “TechSolve” (2023–2025)
+  - Analizēju klientu uzvedības datus, izmantojot Python (pandas, numpy)
+  - Izstrādāju vizualizācijas Power BI un Tableau
+  - Rakstīju SQL vaicājumus datu izgūšanai no PostgreSQL datubāzēm
+  - Palīdzēju veidot automatizētus pārskatus vadībai
+
+Izglītība:
+- Rīgas Tehniskā universitāte — Datorzinātne (Bakalaura grāds, 2023)
+
+Prasmes:
+- Python, SQL, Excel, Power BI
+- Statistikas pamati
+- Datu modelēšana un vizualizācija
+- Komandas darbs un komunikācija
+
+Papildus:
+- Interese par mašīnmācīšanos un datu prognozēšanu
+- Precīza un atbildīga

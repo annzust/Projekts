@@ -1,0 +1,26 @@
+Amata nosaukums: Jaunākais datu analītiķis
+
+Mēs meklējam motivētu un precīzu jaunāko datu analītiķi, kas pievienotos mūsu augošajai analītikas komandai.
+
+Galvenie pienākumi:
+- Datu vākšana, tīrīšana un analīze, izmantojot Python vai SQL
+- Pārskatu un vizualizāciju veidošana ar Excel, Power BI vai Tableau
+- Palīdzība vecākajiem analītiķiem veidot informācijas paneļus un datu modeļus
+- Tendenču un ieskatu identificēšana, lai atbalstītu uzņēmuma lēmumus
+
+Prasības:
+- Labas zināšanas Python (pandas, numpy)
+- Pieredze darbā ar SQL datubāzēm
+- Spēcīgas analītiskās un problēmu risināšanas prasmes
+- Pamatzināšanas statistikā
+- Precizitāte un spēja strādāt patstāvīgi
+
+Vēlams:
+- Pieredze ar datu vizualizācijas rīkiem
+- Izpratne par mašīnmācīšanos vai mākslīgo intelektu
+- Spēja strādāt komandā un labi komunicēt
+
+
+
+
+
